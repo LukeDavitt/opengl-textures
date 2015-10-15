@@ -27,6 +27,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E73B6D571BD06674008ED948 /* awesomeface.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = awesomeface.png; sourceTree = "<group>"; };
 		E740F8DF1BCF1C360062AB93 /* container.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = container.jpg; sourceTree = "<group>"; };
 		E740F8E11BCF1F620062AB93 /* default.vs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = default.vs; sourceTree = "<group>"; };
 		E740F8E21BCF1F6F0062AB93 /* default.frag */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.glsl; path = default.frag; sourceTree = "<group>"; };
@@ -78,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				E7A84A9F1BCF266700922F20 /* Shader.h */,
+				E73B6D571BD06674008ED948 /* awesomeface.png */,
 				E740F8E11BCF1F620062AB93 /* default.vs */,
 				E740F8E21BCF1F6F0062AB93 /* default.frag */,
 				E76F40701BCF142600FF657C /* main.cpp */,
